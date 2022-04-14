@@ -207,5 +207,5 @@ li:hover::before,
 li:hover::after {
     width: 10px;
     height: 10px;
-    border-color: #fff;
+    border-color: #E1406C;
 }
